@@ -1,0 +1,33 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background: #f1ecec;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #686060;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #b37070;
+}
+
+button {
+  margin-left: 5px;
+}
